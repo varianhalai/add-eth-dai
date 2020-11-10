@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/add-eth-dai/static/css/main.412559b2.chunk.css",
+    "main.js": "/add-eth-dai/static/js/main.30ac321b.chunk.js",
+    "main.js.map": "/add-eth-dai/static/js/main.30ac321b.chunk.js.map",
+    "runtime-main.js": "/add-eth-dai/static/js/runtime-main.83599225.js",
+    "runtime-main.js.map": "/add-eth-dai/static/js/runtime-main.83599225.js.map",
+    "static/js/2.1bd23fe7.chunk.js": "/add-eth-dai/static/js/2.1bd23fe7.chunk.js",
+    "static/js/2.1bd23fe7.chunk.js.map": "/add-eth-dai/static/js/2.1bd23fe7.chunk.js.map",
+    "static/js/3.b6275605.chunk.js": "/add-eth-dai/static/js/3.b6275605.chunk.js",
+    "static/js/3.b6275605.chunk.js.map": "/add-eth-dai/static/js/3.b6275605.chunk.js.map",
+    "index.html": "/add-eth-dai/index.html",
+    "static/css/main.412559b2.chunk.css.map": "/add-eth-dai/static/css/main.412559b2.chunk.css.map",
+    "static/js/2.1bd23fe7.chunk.js.LICENSE.txt": "/add-eth-dai/static/js/2.1bd23fe7.chunk.js.LICENSE.txt",
+    "static/media/coin.3036f619.jpg": "/add-eth-dai/static/media/coin.3036f619.jpg",
+    "static/media/download-metamask.d5ed3214.png": "/add-eth-dai/static/media/download-metamask.d5ed3214.png",
+    "static/media/switch-network.7edd19b2.jpg": "/add-eth-dai/static/media/switch-network.7edd19b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83599225.js",
+    "static/js/2.1bd23fe7.chunk.js",
+    "static/css/main.412559b2.chunk.css",
+    "static/js/main.30ac321b.chunk.js"
+  ]
+}
